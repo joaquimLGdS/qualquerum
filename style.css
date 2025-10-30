@@ -1,5 +1,5 @@
 body{ 
-    background-image: url(../img/fund.jpg);
+    background-image: url(fund.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -50,5 +50,6 @@ body{
         margin-top: 50px;
     }
 }
+
 
 
